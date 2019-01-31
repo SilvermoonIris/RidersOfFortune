@@ -1,0 +1,58 @@
+﻿  RidersOfFortune.cpp
+c:\users\peter.sauter001\source\repos\ridersoffortune\ridersoffortune\ridersoffortune.cpp(686): warning C4018: '<': signed/unsigned mismatch
+c:\users\peter.sauter001\source\repos\ridersoffortune\ridersoffortune\ridersoffortune.cpp(818): warning C4018: '<': signed/unsigned mismatch
+c:\users\peter.sauter001\source\repos\ridersoffortune\ridersoffortune\ridersoffortune.cpp(919): warning C4018: '<=': signed/unsigned mismatch
+c:\users\peter.sauter001\source\repos\ridersoffortune\ridersoffortune\ridersoffortune.cpp(941): warning C4018: '<=': signed/unsigned mismatch
+c:\users\peter.sauter001\source\repos\ridersoffortune\ridersoffortune\ridersoffortune.cpp(997): warning C4018: '<=': signed/unsigned mismatch
+c:\users\peter.sauter001\source\repos\ridersoffortune\ridersoffortune\ridersoffortune.cpp(1019): warning C4244: '=': conversion from 'double' to 'short', possible loss of data
+c:\users\peter.sauter001\source\repos\ridersoffortune\ridersoffortune\ridersoffortune.cpp(1023): warning C4244: '=': conversion from 'double' to 'short', possible loss of data
+c:\users\peter.sauter001\source\repos\ridersoffortune\ridersoffortune\ridersoffortune.cpp(1027): warning C4244: '=': conversion from 'double' to 'short', possible loss of data
+c:\users\peter.sauter001\source\repos\ridersoffortune\ridersoffortune\ridersoffortune.cpp(1031): warning C4244: '=': conversion from 'double' to 'short', possible loss of data
+c:\users\peter.sauter001\source\repos\ridersoffortune\ridersoffortune\ridersoffortune.cpp(1039): warning C4244: '=': conversion from 'double' to 'short', possible loss of data
+c:\users\peter.sauter001\source\repos\ridersoffortune\ridersoffortune\ridersoffortune.cpp(1043): warning C4244: '=': conversion from 'double' to 'short', possible loss of data
+c:\users\peter.sauter001\source\repos\ridersoffortune\ridersoffortune\ridersoffortune.cpp(1047): warning C4244: '=': conversion from 'double' to 'short', possible loss of data
+c:\users\peter.sauter001\source\repos\ridersoffortune\ridersoffortune\ridersoffortune.cpp(1051): warning C4244: '=': conversion from 'double' to 'short', possible loss of data
+c:\users\peter.sauter001\source\repos\ridersoffortune\ridersoffortune\ridersoffortune.cpp(1055): warning C4244: '=': conversion from 'double' to 'short', possible loss of data
+c:\users\peter.sauter001\source\repos\ridersoffortune\ridersoffortune\ridersoffortune.cpp(1072): warning C4018: '<': signed/unsigned mismatch
+c:\users\peter.sauter001\source\repos\ridersoffortune\ridersoffortune\ridersoffortune.cpp(1134): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\peter.sauter001\source\repos\ridersoffortune\ridersoffortune\ridersoffortune.cpp(1566): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\peter.sauter001\source\repos\ridersoffortune\ridersoffortune\ridersoffortune.cpp(1572): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\peter.sauter001\source\repos\ridersoffortune\ridersoffortune\ridersoffortune.cpp(1585): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\peter.sauter001\source\repos\ridersoffortune\ridersoffortune\ridersoffortune.cpp(1591): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\peter.sauter001\source\repos\ridersoffortune\ridersoffortune\ridersoffortune.cpp(1827): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\peter.sauter001\source\repos\ridersoffortune\ridersoffortune\ridersoffortune.cpp(1838): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\peter.sauter001\source\repos\ridersoffortune\ridersoffortune\ridersoffortune.cpp(2129): warning C4018: '<=': signed/unsigned mismatch
+c:\users\peter.sauter001\source\repos\ridersoffortune\ridersoffortune\ridersoffortune.cpp(2146): warning C4018: '<': signed/unsigned mismatch
+c:\users\peter.sauter001\source\repos\ridersoffortune\ridersoffortune\ridersoffortune.cpp(2256): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\peter.sauter001\source\repos\ridersoffortune\ridersoffortune\ridersoffortune.cpp(2264): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\peter.sauter001\source\repos\ridersoffortune\ridersoffortune\ridersoffortune.cpp(2303): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\peter.sauter001\source\repos\ridersoffortune\ridersoffortune\ridersoffortune.cpp(2310): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\peter.sauter001\source\repos\ridersoffortune\ridersoffortune\ridersoffortune.cpp(2326): warning C4244: '=': conversion from 'double' to 'short', possible loss of data
+c:\users\peter.sauter001\source\repos\ridersoffortune\ridersoffortune\ridersoffortune.cpp(2334): warning C4244: '=': conversion from 'double' to 'short', possible loss of data
+c:\users\peter.sauter001\source\repos\ridersoffortune\ridersoffortune\ridersoffortune.cpp(2368): warning C4018: '<': signed/unsigned mismatch
+c:\users\peter.sauter001\source\repos\ridersoffortune\ridersoffortune\ridersoffortune.cpp(2389): warning C4018: '<': signed/unsigned mismatch
+c:\users\peter.sauter001\source\repos\ridersoffortune\ridersoffortune\ridersoffortune.cpp(2416): warning C4018: '<': signed/unsigned mismatch
+c:\users\peter.sauter001\source\repos\ridersoffortune\ridersoffortune\ridersoffortune.cpp(2422): warning C4018: '<': signed/unsigned mismatch
+c:\users\peter.sauter001\source\repos\ridersoffortune\ridersoffortune\ridersoffortune.cpp(2679): warning C4244: '=': conversion from 'double' to 'short', possible loss of data
+c:\users\peter.sauter001\source\repos\ridersoffortune\ridersoffortune\ridersoffortune.cpp(2683): warning C4244: '=': conversion from 'double' to 'short', possible loss of data
+c:\users\peter.sauter001\source\repos\ridersoffortune\ridersoffortune\ridersoffortune.cpp(2687): warning C4244: '=': conversion from 'double' to 'short', possible loss of data
+c:\users\peter.sauter001\source\repos\ridersoffortune\ridersoffortune\ridersoffortune.cpp(2691): warning C4244: '=': conversion from 'double' to 'short', possible loss of data
+c:\users\peter.sauter001\source\repos\ridersoffortune\ridersoffortune\ridersoffortune.cpp(2695): warning C4244: '=': conversion from 'double' to 'short', possible loss of data
+c:\users\peter.sauter001\source\repos\ridersoffortune\ridersoffortune\ridersoffortune.cpp(2699): warning C4244: '=': conversion from 'double' to 'short', possible loss of data
+c:\users\peter.sauter001\source\repos\ridersoffortune\ridersoffortune\ridersoffortune.cpp(2703): warning C4244: '=': conversion from 'double' to 'short', possible loss of data
+c:\users\peter.sauter001\source\repos\ridersoffortune\ridersoffortune\ridersoffortune.cpp(2707): warning C4244: '=': conversion from 'double' to 'short', possible loss of data
+c:\users\peter.sauter001\source\repos\ridersoffortune\ridersoffortune\ridersoffortune.cpp(2711): warning C4244: '=': conversion from 'double' to 'short', possible loss of data
+c:\users\peter.sauter001\source\repos\ridersoffortune\ridersoffortune\ridersoffortune.cpp(2715): warning C4244: '=': conversion from 'double' to 'short', possible loss of data
+c:\users\peter.sauter001\source\repos\ridersoffortune\ridersoffortune\ridersoffortune.cpp(2723): warning C4551: function call missing argument list
+c:\users\peter.sauter001\source\repos\ridersoffortune\ridersoffortune\ridersoffortune.cpp(2747): warning C4018: '<': signed/unsigned mismatch
+c:\users\peter.sauter001\source\repos\ridersoffortune\ridersoffortune\ridersoffortune.cpp(2761): warning C4018: '<': signed/unsigned mismatch
+c:\users\peter.sauter001\source\repos\ridersoffortune\ridersoffortune\ridersoffortune.cpp(2935): warning C4018: '<': signed/unsigned mismatch
+c:\users\peter.sauter001\source\repos\ridersoffortune\ridersoffortune\ridersoffortune.cpp(2938): warning C4018: '<': signed/unsigned mismatch
+c:\users\peter.sauter001\source\repos\ridersoffortune\ridersoffortune\ridersoffortune.cpp(2978): warning C4018: '<': signed/unsigned mismatch
+c:\users\peter.sauter001\source\repos\ridersoffortune\ridersoffortune\ridersoffortune.cpp(3044): warning C4018: '>=': signed/unsigned mismatch
+c:\users\peter.sauter001\source\repos\ridersoffortune\ridersoffortune\ridersoffortune.cpp(3051): warning C4018: '>=': signed/unsigned mismatch
+c:\users\peter.sauter001\source\repos\ridersoffortune\ridersoffortune\ridersoffortune.cpp(3263): warning C4018: '>=': signed/unsigned mismatch
+c:\users\peter.sauter001\source\repos\ridersoffortune\ridersoffortune\ridersoffortune.cpp(3284): warning C4018: '>=': signed/unsigned mismatch
+c:\users\peter.sauter001\source\repos\ridersoffortune\ridersoffortune\ridersoffortune.cpp(3303): warning C4018: '>=': signed/unsigned mismatch
+c:\users\peter.sauter001\source\repos\ridersoffortune\ridersoffortune\ridersoffortune.cpp(3322): warning C4018: '>=': signed/unsigned mismatch
+  RidersOfFortune.vcxproj -> c:\users\peter.sauter001\source\repos\RidersOfFortune\Debug\RidersOfFortune.exe
